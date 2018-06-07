@@ -25,7 +25,7 @@ Thesis : Development a Real-time Sentiment Analysis System of students on Facebo
 Naive Bayes classifier in Thai Language
 ```
 ## Skill
--`Framework`
+- Framework
 	- Laravel 5.^
 	- Apiato
 	- Codeigniter
@@ -52,11 +52,11 @@ Naive Bayes classifier in Thai Language
 	- Omise
 	- 2c2p
 ## Link
--[facebook](https://fb.com/maxcomsciclub)
--[github](https://github.com/maxca/)
--[packagist](https://packagist.org/users/maxca789/packages/)
--[linkedin](https://www.linkedin.com/in/samark-chaisanguan-35b843a5/)
--[blogger](http://macxoomscie.blogspot.com/)
+- [facebook](https://fb.com/maxcomsciclub)
+- [github](https://github.com/maxca/)
+- [packagist](https://packagist.org/users/maxca789/packages/)
+- [linkedin](https://www.linkedin.com/in/samark-chaisanguan-35b843a5/)
+- [blogger](http://macxoomscie.blogspot.com/)
 ## Language
 - Thai
 	- write 	: good
