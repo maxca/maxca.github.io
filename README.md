@@ -1,4 +1,5 @@
 
+
 ## General Information
 - Name : samark chaisangun (สมัคร ชัยงวน)
 - Nickname : (max)
@@ -17,13 +18,29 @@
 	- Development software support internal.
 ## Education
 ```
-Bachelor degree : Computer science , Sakhonnakhone Rhajabhat University.
+Bachelor degree : Computer science , Sakon nakhon rajabhat university.
 ```
 ```
 Master degree : Information technology , Sukhothai open university
 Thesis : Development a Real-time Sentiment Analysis System of students on Facebook using
 Naive Bayes classifier in Thai Language
 ```
+## Formal Skill 
+- 7 years experience in PHP development.
+- Experienced in Full Stack development design coding and server.
+- Strong Experienced in Laravel 5 Framework and Codeigniter.
+- Experienced in using web development in LAMP stack or similar web technologies.
+- Familiar with front-end code in HTML5, CSS3, JavaScript in various frameworks and template languages.
+- Strong experience with object programming and design pattern (MVC)
+- Familiar with Mysql ,Redis ,memcache, queue, file
+- Familiar with Javascript Framework in JQuery , Angular.
+- Familiar with Rest Full Service and SOAP Client 
+- Familiar with Git Source Control.
+- Familiar with CICD in Automate Test : Robot Framework ,UnitTest,Codeception, Jenkin.
+- Familiar with OS in Windows , Linux : debian; centos;ubuntu, OSX.
+- Familiar with Agile and Scum development process.
+- Familiar with Digital ocean and cloudflare.
+
 ## Skill
 - Framework
 	- Laravel 5.^
