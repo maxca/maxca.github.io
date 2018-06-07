@@ -7,13 +7,13 @@
 - Email : samarkchsngn@gmail.com 
 ## Work
 - Ascend corperation (Senior Software engineering)
--- Development software support `TRUE Company`
--- Online to Offline Platform `(O2O)` 
+	Development software support `TRUE Company`
+	Online to Offline Platform `(O2O)` 
 - TARAD.com (Software engineering)
--- Development software support internal.
--- Development software support Marketing project.
+	Development software support internal.
+	Development software support Marketing project.
 - ST.theresa international college (Programer)
--- Development software support internal.
+	Development software support internal.
 ## Education 
 ```
 Bachelor degree : Computer science , Sakhonnakhone Rhajabhat University.
@@ -26,38 +26,38 @@ Naive Bayes classifier in Thai Language
 
 ## Skill 
 -`Framework`
--- Laravel 5.^
--- Apiato
--- Codeigniter
--- Jquery
--- Angular *
--- NodeJs
+	Laravel 5.^
+	Apiato
+	Codeigniter
+	Jquery
+	Angular *
+	NodeJs
 - Database
--- Mysql 
--- Redis
--- MongoDB *
+	Mysql 
+	Redis
+	MongoDB *
 - OS
--- Osx
--- Window
--- Debain
--- Ubuntu
+	Osx
+	Window
+	Debain
+	Ubuntu
 - Souce control
--- bitbucket
--- github
--- sourcetree
+	bitbucket
+	github
+	sourcetree
 - Contributor
--- blogger 
--- packagist
+	blogger 
+	packagist
 - Online payment
--- Omise
--- 2c2p
+	Omise
+	2c2p
 
 ## Language
 - Thai
--- write 	: good
--- read 	: good
--- speak 	: good
+	write 	: good
+	read 	: good
+	speak 	: good
 - English 
--- write 	: normal
--- read 	: good
--- speak 	: normal
+	write 	: normal
+	read 	: good
+	speak 	: normal
