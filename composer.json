@@ -1,0 +1,14 @@
+{
+    "name": "samark/resume",
+    "description": "History of Samark chaisanguan on his way programming",
+    "type": "e.g.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Samark Chaisanguan",
+            "email": "samarkchsngn@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
